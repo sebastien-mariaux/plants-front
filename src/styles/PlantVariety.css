@@ -1,0 +1,12 @@
+.variety-item {
+  border: 2px solid  rgb(115, 204, 115);
+  box-shadow: 2px 2px 2px rgb(163, 255, 183);
+  border-radius: 5px;
+  width: 42%;
+  margin: 0.5em 0;
+  padding: 0.5em;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+}
